@@ -1,0 +1,3 @@
+[submodule "sub/sub1"]
+	path = sub/sub1
+	url = https://github.com/NikoT/Test_submodule.git
